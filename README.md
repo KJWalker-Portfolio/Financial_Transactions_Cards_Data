@@ -9,7 +9,7 @@ This Repo contains the link to the Tableau workbook containing example card tran
 ### Datasource
 Cards data was sourced from [Kaggle.Com](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets?resource=download) on 12/11/25.
 
-The data was loaded to a local MySQL table for portfolio queries and data cleaning.
+The data was loaded to a local SSMS table for portfolio queries and data cleaning.
 
 ![My screenshot](https://github.com/KJWalker-Portfolio/Financial_Transactions_Cards_Data/blob/main/Photos/MySQL_DBO.png) 
 
