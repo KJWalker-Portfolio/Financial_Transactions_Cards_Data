@@ -2,7 +2,7 @@
 
 This Repo contains the link to the Tableau workbook containing example card transaction dashboard.
 
---![My screenshot]([images/screenshot.png](https://github.com/KJWalker-Portfolio/Financial_Transactions_Cards_Data/blob/main/Photos/MySQL_DBO.png)) 
+--![My screenshot](https://github.com/KJWalker-Portfolio/Financial_Transactions_Cards_Data/blob/main/Photos/MySQL_DBO.png) 
 
 * This dashboard allows users to drill summary data down to
 
