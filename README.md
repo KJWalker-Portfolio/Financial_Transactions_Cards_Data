@@ -4,7 +4,7 @@ This Repo contains the link to the Tableau workbook containing example card tran
 
 * This dashboard shows year over year cards issued by brand. Green and red icons display the increase or decrese in number of cards issued from prior year by brand.
 
-[Financial Transactions Cards Data]([https://public.tableau.com/app/profile/kaitlynn.walker/viz/FinancialTransactionsCardsData/IssuedCards?publish=yes])
+[Financial Transactions Cards Data](https://public.tableau.com/app/profile/kaitlynn.walker/viz/FinancialTransactionsCardsData/IssuedCards?publish=yes)
 
 ### Datasource
 Cards data was sourced from [Kaggle.Com](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets?resource=download) on 12/11/25.
